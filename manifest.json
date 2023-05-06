@@ -11,7 +11,6 @@
   },
   "homepage_url": "https://github.com/janyksteenbeek/chrome-gcal-datumprikker",
   "permissions": [
-    "activeTab",
     "identity"
   ],
   "host_permissions": [
